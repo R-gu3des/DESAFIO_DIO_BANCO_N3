@@ -7,7 +7,7 @@ Bem-vindo ao projeto Banco DIO, um sistema bancário simples que gerencia contas
 
 Certifique-se de ter o Python instalado na sua máquina.
 No terminal, execute o seguinte comando para iniciar o programa:    
-- python src/app.py
+- python app.py
 
 ## Interaja com o Menu:
 
